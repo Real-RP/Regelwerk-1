@@ -135,6 +135,8 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §6.6| Eine Bank darf und kann erst ab 4 Cops ausgeraubt werden. Jede Wiedersetzung kann zu einem Bann führen.
 
+§6.7| Medics, Polizisten und andere legale Fraktionen welche gegen die Ausräuber arbeiten, haben nicht das Befugniss selber einen Ladenraub oder ähnliches zu machen. Die Strafe erfolgt innerhalb des RP's und nur bei Wiederholungstaten zu einem Bann.
+
 # §7| Teamspeak
 
 §7.1| Das Nutzen von externen Programmen und Plugins zur Kommunikation (Skype, Steam Chat, zweites Teamspeak, TS Overlays, TSNotifier etc.) ist verboten und wird mit einem Ausschluss bestraft. Dies gilt als Metagaming.
